@@ -1,5 +1,5 @@
 # CSS Fundamentals Lab
-
+- 
 ## Learning Goals
 
 - Link an external CSS file
